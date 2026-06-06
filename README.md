@@ -92,23 +92,35 @@ Archivos:
 
 ---
 
-## Dashboard
+## 📸 Dashboard
 
 ### Página 1 - Resumen Ejecutivo
 
-*(Agregar imagen)*
+![Resumen Ejecutivo](Screenshots/01_Resumen_Ejecutivo.png)
+
+---
 
 ### Página 2 - Análisis de Clientes
 
-*(Agregar imagen)*
+![Análisis de Clientes](Screenshots/02_Analisis_Clientes.png)
+
+---
 
 ### Página 3 - Análisis de Productos
 
-*(Agregar imagen)*
+![Análisis de Productos](Screenshots/03_Analisis_Productos.png)
+
+---
 
 ### Página 4 - Análisis Financiero
 
-*(Agregar imagen)*
+![Análisis Financiero](Screenshots/04_Analisis_Financiero.png)
+
+---
+
+### Modelo de Datos
+
+![Modelo de Datos](Screenshots/05_Modelo_Datos.png)
 
 ---
 
